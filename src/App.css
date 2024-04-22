@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main-header{
+  font-family: 'Montserrat', sans-serif;
+}
+.create-form label{
+  color: whitesmoke;
+  float:left;
+  width: 10em;
+  margin-right: 10em;
+  padding: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+.main{
+  display: flex;
+  padding: 100px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+  color: whitesmoke;
+  flex-direction: column;
+}
+.main-header{
+  font-family: 'Montserrat', sans-serif;
+}
+.Form.Field input{
+      color: whitesmoke;
+      padding: 100px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+}
+
+
+
+
